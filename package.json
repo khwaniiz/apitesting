@@ -1,0 +1,13 @@
+{
+  "name": "portfolioapibote",
+  "version": "1.0.0",
+  "description": "Project Description",
+  "scripts": {
+    "start": "serve ./docs",
+  },
+  "dependencies": {
+    "serve": "^10.0.1"
+  },
+  "author": "bote"
+}
+
